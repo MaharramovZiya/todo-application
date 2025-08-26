@@ -1,16 +1,27 @@
-# todo_app
+# 📝 Todo App
 
-A new Flutter project.
+A simple and easy-to-use **Todo App**.  
+Users can add new tasks, delete them, and mark them as completed.  
+This project is great for learning and also useful for daily task management.  
 
-## Getting Started
+## 📸 Screenshot
 
-This project is a starting point for a Flutter application.
+![App Screenshot](./lib/assets/todoimg.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- Add new todos
+- Delete todos
+- Mark todos as completed
+- Minimalist UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Built With
+- Flutter / Dart
+- Material Design UI
+- State Management (setState)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚡ Installation
+```bash
+git clone https://github.com/yourusername/todo-app.git
+cd todo-app
+flutter pub get
+flutter run
